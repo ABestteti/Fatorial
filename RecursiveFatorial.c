@@ -12,7 +12,7 @@ double RecursiveFatorial(double num) {
     if (num == 1) {
         return 1;
     }
-    // Comments .. ..
+    // Comments .. .. ..
     return (num * RecursiveFatorial(num - 1));
 }
 
